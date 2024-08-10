@@ -33,7 +33,7 @@ To get started with ADP Workforce, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/adp-workforce.git
+   git clone https://github.com/crystal123m/adp-workforce.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd adp-workforce
